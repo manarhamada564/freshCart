@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/manarhamada564/freshCart/static/css/main.7d8886d7.css",
-    "main.js": "/manarhamada564/freshCart/static/js/main.ba268815.js",
-    "static/media/product2.jpg": "/manarhamada564/freshCart/static/media/product2.8723aca4053db2e3ec88.jpg",
-    "static/media/slider-image-1.jpeg": "/manarhamada564/freshCart/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
-    "static/media/slider-image-3.jpeg": "/manarhamada564/freshCart/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
-    "static/media/fa-solid-900.woff2": "/manarhamada564/freshCart/static/media/fa-solid-900.8ae0d37556ff1e685de2.woff2",
-    "static/media/fa-brands-400.woff2": "/manarhamada564/freshCart/static/media/fa-brands-400.1c5c7716b05754cb4eab.woff2",
-    "static/media/fa-regular-400.woff2": "/manarhamada564/freshCart/static/media/fa-regular-400.6f05ca9ab7b5345dbc07.woff2",
-    "static/media/products.webp": "/manarhamada564/freshCart/static/media/products.08b75659560d7ba83edf.webp",
-    "static/media/freshcart-logo.svg": "/manarhamada564/freshCart/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
-    "static/media/fa-v4compatibility.woff2": "/manarhamada564/freshCart/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
-    "static/media/slick.svg": "/manarhamada564/freshCart/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/manarhamada564/freshCart/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/manarhamada564/freshCart/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/manarhamada564/freshCart/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/manarhamada564/freshCart/index.html",
-    "main.7d8886d7.css.map": "/manarhamada564/freshCart/static/css/main.7d8886d7.css.map",
-    "main.ba268815.js.map": "/manarhamada564/freshCart/static/js/main.ba268815.js.map"
+    "main.css": "/freshCart/static/css/main.514ea0db.css",
+    "main.js": "/freshCart/static/js/main.1ad42946.js",
+    "static/media/product2.jpg": "/freshCart/static/media/product2.8723aca4053db2e3ec88.jpg",
+    "static/media/slider-image-1.jpeg": "/freshCart/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/slider-image-3.jpeg": "/freshCart/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/fa-solid-900.woff2": "/freshCart/static/media/fa-solid-900.8ae0d37556ff1e685de2.woff2",
+    "static/media/fa-brands-400.woff2": "/freshCart/static/media/fa-brands-400.1c5c7716b05754cb4eab.woff2",
+    "static/media/fa-regular-400.woff2": "/freshCart/static/media/fa-regular-400.6f05ca9ab7b5345dbc07.woff2",
+    "static/media/products.webp": "/freshCart/static/media/products.08b75659560d7ba83edf.webp",
+    "static/media/freshcart-logo.svg": "/freshCart/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.woff2": "/freshCart/static/media/fa-v4compatibility.e4340c52a50e727c6afa.woff2",
+    "static/media/slick.svg": "/freshCart/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/freshCart/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/freshCart/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/freshCart/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/freshCart/index.html",
+    "main.514ea0db.css.map": "/freshCart/static/css/main.514ea0db.css.map",
+    "main.1ad42946.js.map": "/freshCart/static/js/main.1ad42946.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d8886d7.css",
-    "static/js/main.ba268815.js"
+    "static/css/main.514ea0db.css",
+    "static/js/main.1ad42946.js"
   ]
 }
