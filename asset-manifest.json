@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/freshCart/static/css/main.514ea0db.css",
-    "main.js": "/freshCart/static/js/main.1ad42946.js",
+    "main.css": "/freshCart/static/css/main.4a17c14d.css",
+    "main.js": "/freshCart/static/js/main.17c46cc9.js",
     "static/media/product2.jpg": "/freshCart/static/media/product2.8723aca4053db2e3ec88.jpg",
     "static/media/slider-image-1.jpeg": "/freshCart/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
     "static/media/slider-image-3.jpeg": "/freshCart/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
@@ -16,11 +16,11 @@
     "static/media/slick.ttf": "/freshCart/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/freshCart/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/freshCart/index.html",
-    "main.514ea0db.css.map": "/freshCart/static/css/main.514ea0db.css.map",
-    "main.1ad42946.js.map": "/freshCart/static/js/main.1ad42946.js.map"
+    "main.4a17c14d.css.map": "/freshCart/static/css/main.4a17c14d.css.map",
+    "main.17c46cc9.js.map": "/freshCart/static/js/main.17c46cc9.js.map"
   },
   "entrypoints": [
-    "static/css/main.514ea0db.css",
-    "static/js/main.1ad42946.js"
+    "static/css/main.4a17c14d.css",
+    "static/js/main.17c46cc9.js"
   ]
 }
