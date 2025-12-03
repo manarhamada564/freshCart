@@ -4,7 +4,7 @@ import { useQuery } from '@tanstack/react-query';
 import { Link } from 'react-router-dom';
 import { CartContext } from '../../Context/CartContext';
 import toast from 'react-hot-toast';
-
+import { MutatingDots } from 'react-loader-spinner';
 
 export default function FeatureProducts() {
   const apiName = process.env.REACT_APP_API;
@@ -65,7 +65,19 @@ export default function FeatureProducts() {
             </div>
             </div>
           )}
-          </>:<div className='align-items-center'><i className='fas fa-spinner fa-xl fa-spin text-main'></i></div>}
+          </>:<div className='loading'>      
+                <MutatingDots
+                    visible={true}
+                    height="100"
+                    width="100"
+                    color="#4fa94d"
+                    secondaryColor="#4fa94d"
+                    radius="12.5"
+                    ariaLabel="mutating-dots-loading"
+                    wrapperStyle={{}}
+                    wrapperClass=""
+                    />
+                    </div>}
 
         </div>
       </div>

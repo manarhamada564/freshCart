@@ -16,6 +16,9 @@ import ProductDetails from './Components/ProductDetails/ProductDetails';
 import CartContextProvider from './Context/CartContext';
 import { Toaster } from 'react-hot-toast';
 import Profile from './Components/Profile/Profile';
+import { Provider } from 'react-redux';
+import { store } from './Redux/store';
+
 
 let routers = createBrowserRouter([
   {path:"/", element:<Layout/>, children:[
@@ -42,8 +45,10 @@ export default function App() {
   }, [])
 
   return  <CartContextProvider>
-    <RouterProvider router = {routers}>
+    <Provider store = {store}>
+      <RouterProvider router = {routers}>
       </RouterProvider> 
     <Toaster/>
+    </Provider>
   </CartContextProvider>
 }
